@@ -14,7 +14,7 @@
 **Ismael616/ismael616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-### 👨‍💻 About Me :
+## 👨‍💻 About Me :
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -25,7 +25,7 @@ Here are some ideas to get you started:-->
 
 ---
 
-### 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools :
 <div>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootsrap" width="70" height="70"/></a>&nbsp;
@@ -58,7 +58,7 @@ Here are some ideas to get you started:-->
 
 ---
 
-### Contacts :
+## Contacts :
 <div>
   <a href="mailto:ismaelcoulibaly616@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/223047/gmail.svg" title=" My Gmail" alt="Gmail" width="60" height="60"/></a>&nbsp;
  <a href="https://www.linkedin.com/in/ismael-coulibaly/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " title=" My LinkedIn" alt="LinkedIn" width="60" height="60"></a>&nbsp;
@@ -66,7 +66,7 @@ Here are some ideas to get you started:-->
 
 ---
 
-  ### 🔥 My Stats :
+  ## 🔥 My Stats :
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael616&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
