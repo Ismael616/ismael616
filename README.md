@@ -1,5 +1,8 @@
-# Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</div>
+<h1 align="center"> Hi there 👋 </h1>
+<h2 align="center">Job / Passion </h2>
 <!--
 **Ismael616/ismael616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Connect with me:</h3>
