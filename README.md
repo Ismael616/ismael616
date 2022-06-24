@@ -8,7 +8,7 @@
 <h1 align="center"> Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
-<h2 align="center">Job / Passion 
+<h2 align="center"> Junior  Data Scientist / Python Developer  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h2>
 <!--
@@ -16,13 +16,13 @@
 Here are some ideas to get you started:-->
 
 ## 👨‍💻 About Me :
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning  Deep Learning & Dataiku
+<!-- - 👯 I’m looking to collaborate on ...-->
+<!-- - 🤔 I’m looking for help with ... -->
+<!--- 💬 Ask me about ...-->
+- 😄 Pronouns: He /Him
+<!-- - ⚡ Fun fact: ...-->
 
 ---
 
