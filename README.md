@@ -27,6 +27,7 @@ Here are some ideas to get you started:-->
 ---
 
 ## 🛠️ Languages and Tools :
+<--! https://github.com/devicons/devicon/tree/master/icons -->
 <div>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootsrap" width="70" height="70"/></a>&nbsp;
