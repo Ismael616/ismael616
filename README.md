@@ -56,6 +56,7 @@ Here are some ideas to get you started:-->
   <a href="https://azure.microsoft.com/en-us" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="70" height="70"/></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
   <a href="https://www.kaggle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/></a>&nbsp;
+  <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
   <!-- 
   <a href="" target="_blank"><img src="" title="" alt="" width="70" height="70"/></a>&nbsp;
 -->
