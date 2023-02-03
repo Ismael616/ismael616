@@ -79,4 +79,4 @@ Here are some ideas to get you started:-->
  <br/>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ismael616&theme=navy-gear&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael616&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael616&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
