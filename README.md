@@ -66,17 +66,32 @@ Here are some ideas to get you started:-->
 ---
 
 ## Contacts :
-<div>
+<div align="center">
   <a href="mailto:ismaelcoulibaly616@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/223047/gmail.svg" title=" My Gmail" alt="Gmail" width="60" height="60"/></a>&nbsp;
  <a href="https://www.linkedin.com/in/ismael-coulibaly/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " title=" My LinkedIn" alt="LinkedIn" width="60" height="60"></a>&nbsp;
  </div>
-
+ 
 ---
 
-  ## 🔥 My Stats :
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael616&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
- <br/>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ismael616&theme=navy-gear&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael616&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 My Stats :
+  
+  <p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=ismael616&count_private=true&show_icons=true&theme=algolia"  width="60%" alt="Ismael616 Github stats card"> </a>
+  </p>
+  
+ <p align="center">
+<a href="https://git.io/streak-stats"><img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=ismael616&theme=navy-gear&date_format=j%2Fn%5B%2FY%5D" alt="Ismael616 Streaks"> </a>
+   <a href=""><img width="49%" src="https://leetcode.card.workers.dev/LazyT?theme=dark&font=baloo&extension=null" alt="Leet code Stats"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael616&theme=algolia" width="35%"  alt="Ismael616 Most used languages"></a>
+</p>
+  
+<!--
+<p align="center">
+<a href=""><img width="50%" src="" alt=""></a>
+ </p>
+-->
+  
+
