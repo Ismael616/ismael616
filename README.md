@@ -16,9 +16,9 @@
 Here are some ideas to get you started:-->
 
 ## 👨‍💻 About Me :
-<!-- - 🔭 I’m currently working on ... -->
+- 🔭 I’m currently working on Flask CRUD Project
 - 🌱 I’m currently learning  MS AZURE
-<!-- - 👯 I’m looking to collaborate on ...-->
+- 👯 I’m looking to collaborate on  Any AI or Data related Project
 <!-- - 🤔 I’m looking for help with ... -->
 <!--- 💬 Ask me about ...-->
 - 😄 Pronouns: He /Him
