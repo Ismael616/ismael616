@@ -67,8 +67,6 @@ Here are some ideas to get you started:-->
 
 ## Contacts :
 <div align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ismael-coulibaly" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/ismael-coulibaly?trk=profile-badge">Ismael Coulibaly</a></div>
-              
   <a href="mailto:ismaelcoulibaly616@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/223047/gmail.svg" title=" My Gmail" alt="Gmail" width="60" height="60"/></a>&nbsp;
  <a href="https://www.linkedin.com/in/ismael-coulibaly/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " title=" My LinkedIn" alt="LinkedIn" width="60" height="60"></a>&nbsp;
  </div>
