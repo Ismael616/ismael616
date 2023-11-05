@@ -57,6 +57,12 @@ Here are some ideas to get you started:-->
   <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
   <a href="https://www.kaggle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/></a>&nbsp;
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
+   <a href="https://shiny.posit.co/" target="_blank"><img src="https://ericrayanderson.github.io/shinymaterial/img/shinyLogo.png" title=" R shiny" alt=" R Shiny" width="60" height="70"/></a>&nbsp;
+   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="70" height="70"/></a>&nbsp;
+   <a href="https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="70" height="70"/></a>&nbsp;
+   <a href="https://www.databricks.com/resources/ebook/the-data-lakehouse-platform-for-dummies?scid=7018Y000001Fi0tQAC&utm_medium=paid+search&utm_source=google&utm_campaign=14925738952&utm_adgroup=133613219972&utm_content=ebook&utm_offer=the-data-lakehouse-platform-for-dummies&utm_ad=666067198475&utm_term=databricks&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIOIJC09det9MB4v1-NDZYVLdzz3lexO_pPoPJn5GFH3gngWZM49urMaAjF9EALw_wcB" target="_blank"><img src="https://seeklogo.com/images/A/azure-databricks-logo-AB590543D3-seeklogo.com.png" title="Databricks" alt="Databricks" width="70" height="70"/></a>&nbsp;
+   <a href="https://streamlit.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" title="Streamlit" alt="Streamlit" width="70" height="70"/></a>&nbsp;
+   <a href="https://www.scala-lang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" width="70" height="70"/></a>&nbsp;
   <!-- 
   <a href="" target="_blank"><img src="" title="" alt="" width="70" height="70"/></a>&nbsp;
 -->
