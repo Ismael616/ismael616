@@ -104,11 +104,6 @@ Here are some ideas to get you started:-->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael616&theme=algolia" alt="Ismael616 Most used languages"></a>
 </p>
 
-<br/>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" src="https://activity-graph.herokuapp.com/graph?username=ismael616&theme=xcode" alt=""></a>
-</p>
 <!--
 <p align="center">
 <a href=""><img width="50%" src="" alt=""></a>
