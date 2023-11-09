@@ -82,7 +82,7 @@ Here are some ideas to get you started:-->
 ## 🔥 My Stats :
   
   <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=ismael616&count_private=true&show_icons=true&theme=algolia"  alt="Ismael616 Github stats card"> </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=ismael616&count_private=true&show_icons=true&theme=algolia&rank_icon=github"  alt="Ismael616 Github stats card"> </a>
   </p>
   
 <p align="center">
