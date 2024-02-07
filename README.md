@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
 
 ## 👨‍💻 About Me :
 - 🔭 I’m currently finishing up all my pending projects 😄
-- 🌱 Learning  DevOps Essentials 
+- 🌱 Learning  Cloud Foundry
 - 👯 I’m looking to collaborate on  Any AI or Data related Project
 <!-- - 🤔 I’m looking for help with ... -->
 <!--- 💬 Ask me about ...-->
