@@ -77,7 +77,7 @@ Here are some ideas to get you started:-->
 ## Contacts :
 <div align="center">
   <a href="mailto:ismaelcoulibaly616@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/223047/gmail.svg" title=" My Gmail" alt="Gmail" width="60" height="60"/></a>&nbsp;
- <a href="https://www.linkedin.com/in/ismael-coulibaly/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " title=" My LinkedIn" alt="LinkedIn" width="60" height="60"></a>&nbsp;
+ <a href="www.linkedin.com/in/ismcoulibaly" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " title=" My LinkedIn" alt="LinkedIn" width="60" height="60"></a>&nbsp;
  </div>
  
 ---
