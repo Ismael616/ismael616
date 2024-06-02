@@ -66,6 +66,16 @@ Here are some ideas to get you started:-->
    <a href="https://www.databricks.com/resources/ebook/the-data-lakehouse-platform-for-dummies?scid=7018Y000001Fi0tQAC&utm_medium=paid+search&utm_source=google&utm_campaign=14925738952&utm_adgroup=133613219972&utm_content=ebook&utm_offer=the-data-lakehouse-platform-for-dummies&utm_ad=666067198475&utm_term=databricks&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIOIJC09det9MB4v1-NDZYVLdzz3lexO_pPoPJn5GFH3gngWZM49urMaAjF9EALw_wcB" target="_blank"><img src="https://seeklogo.com/images/A/azure-databricks-logo-AB590543D3-seeklogo.com.png" title="Databricks" alt="Databricks" width="70" height="70"/></a>&nbsp;
    <a href="https://streamlit.io/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" title="Streamlit" alt="Streamlit" width="70" height="70"/></a>&nbsp;
    <a href="https://www.scala-lang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" width="70" height="70"/></a>&nbsp;
+   <a href="https://about.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="70" height="70"/></a>&nbsp;
+   <a href="https://www.oracle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="70" height="70"/></a>&nbsp;
+   <a href="https://www.postgresql.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="70" height="70"/></a>&nbsp;
+   <a href="https://kafka.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="70" height="70"/></a>&nbsp;
+   <a href="https://airflow.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" alt="Airflow" width="70" height="70"/></a>&nbsp;
+   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="70" height="70"/></a>&nbsp;
+   <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="Sklearn" width="70" height="70"/></a>&nbsp;
+
+
+  
   <!-- 
   <a href="" target="_blank"><img src="" title="" alt="" width="70" height="70"/></a>&nbsp;
 -->
