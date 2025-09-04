@@ -99,7 +99,7 @@ Here are some ideas to get you started:-->
   </p>
   
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ismael616&theme=navy-gear&date_format=j%2Fn%5B%2FY%5D" alt="Ismael616 Streaks"> </a>    
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ismael616&theme=dark&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Ismael616  GitHub Streak" /></a>    
 </p>
 
 <div align="center">
